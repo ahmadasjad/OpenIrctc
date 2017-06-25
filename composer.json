@@ -1,4 +1,11 @@
 {
     "name": "ahmadasjad/openirctc",
+    "authors": [
+        {
+            "name": "ahmadasjad",
+            "email": "ahmadcimage@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {}
 }
