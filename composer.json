@@ -1,5 +1,8 @@
 {
     "name": "ahmadasjad/openirctc",
+    "description": "A Package to get schedule of indian railway train and PNR status of the reserved ticket",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "ahmadasjad",
